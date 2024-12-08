@@ -6,8 +6,8 @@
 	<artifactId>masterBDDframework</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<maven.compiler.source>1.8</maven.compiler.source>
-		<maven.compiler.target>1.8</maven.compiler.target>
+		<maven.compiler.source>11</maven.compiler.source>
+		<maven.compiler.target>11</maven.compiler.target>
 		<aspectj.version>1.8.10</aspectj.version>
 		<maven-resource-plugin.version>3.1.0</maven-resource-plugin.version>
 		<maven-site.version>3.4</maven-site.version>
